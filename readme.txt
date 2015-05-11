@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
    Git tracks changes of files.
 Creating a new branch is quick and simple.
 20150511
+2015-05-12
